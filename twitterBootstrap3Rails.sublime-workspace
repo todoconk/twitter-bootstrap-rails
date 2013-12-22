@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-small"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wed",
+				"wed_id"
+			],
+			[
+				"wer",
+				"wer_id"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"sf",
+				"sfWebRequest"
+			],
+			[
+				"remove",
+				"removeAttribute	jsDOM"
+			],
+			[
+				"blur",
+				"blur()	jQuery"
+			],
+			[
+				"hoal",
+				"host	jsLocation"
+			],
+			[
+				"fun",
+				"function	jsProp"
+			],
+			[
+				"fadeTo",
+				"fadeToggle()	jQuery"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"nbl",
+				"nl2br"
+			],
+			[
+				"sfCon",
+				"sfConfig"
+			],
+			[
+				"get",
+				"get()	jQuery"
+			],
+			[
+				"bl",
+				"blur()	jQuery"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"trig",
+				"trigger()	jQuery"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"fade",
+				"fadeOut()	jQuery"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ord",
+				"orderBy"
+			],
+			[
+				"usuarios",
+				"usuariosTimeline"
+			],
+			[
+				"prep",
+				"prependTo()	jQuery"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"koi",
+				"koiLib"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"stru",
+				"strtoupper"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"json",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/twitter/bootstrap/rails/version.rb",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 132 files for \"bootstrap-static\"\n\n/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/twitter-bootstrap-rails/Rakefile:\n   23    parser = Less::Parser.new :paths => [toolkit_path]\n   24  \n   25:   target_directory = File.expand_path('app/assets/stylesheets/twitter-bootstrap-static')\n   26  \n   27    sh \"rm -rf #{target_directory}\"\n\n/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/twitter-bootstrap-rails/lib/generators/bootstrap/install/templates/bootstrap_and_overrides.css:\n    1  /*\n    2:   =require twitter-bootstrap-static/bootstrap\n    3  \n    4    Use Font Awesome icons (default)\n    5:   To use Glyphicons sprites instead of Font Awesome, replace with \"require twitter-bootstrap-static/sprites\"\n    6:   =require twitter-bootstrap-static/fontawesome\n    7    */\n\n4 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 842,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "vendor/static-source/bootstrap.less",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ad",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 127.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kkrikorian/Desktop/bootstrap-tagsinput/bootstrap-tagsinput.min.js.map",
+		"/Users/kkrikorian/Dropbox/ChromeExtension/catblock/manifest.json",
+		"/Users/kkrikorian/Dropbox/ChromeExtension/catblock/background.js",
+		"/Users/kkrikorian/Dropbox/ChromeExtension/catblock/loldogs.js",
+		"/Users/kkrikorian/Dropbox/ChromeExtension/manifest.json",
+		"/Users/kkrikorian/Dropbox/ideas365/Intranet/main.php",
+		"/private/var/folders/s5/dqwwx48n75s6x5s4_039n0th0000gn/T/fz3temp-1/readme.txt",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/.ruby-gemset",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131107154300_create_contacts.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131107154412_create_feeds.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131107154420_create_follows.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131106191839_create_users.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/models/user.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/application.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/initializers/omniauth.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/layouts/application.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131106191848_rolify_create_roles.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131107154200_create_contact_types.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/environments/test.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/environment.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/environments/production.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/Gemfile",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/environments/development.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131107132520_add_fields_to_users.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/database.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/dashboard/_aside.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/personas/index.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/personas/_asideDetalles.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/routes.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/assets/stylesheets/common.css.less",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/controllers/comunidades_controller.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/.gitignore",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/dashboard/index.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/personas/detalles.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/controllers/dashboard_controller.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/controllers/personas_controller.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/controllers/application_controller.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/personas/_aside.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/locales/simple_form.en.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/unicorn.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/assets/stylesheets/home.css.less",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/models/follow.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131107154458_create_contact_types.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/models/contact.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/layouts/landing.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/controllers/home_controller.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/db/migrate/20131107154355_create_communities.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/views/home/index.html.erb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/app/assets/stylesheets/common.css.scss",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/.bundle/config",
+		"/Users/kkrikorian/Workspaces/SublimeText Projects/bululuRails.sublime-project",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/bululu/config/newrelic.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/venexter/app/models/user.rb",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/venexter/config/application.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/lib/widget/koiWidgetFormInputFileEditable.class.php",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/plugins/koiGaleriasPlugin/modules/galerias/config/generator.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/apps/backend/config/routing.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/plugins/koiGaleriasPlugin/modules/galerias/actions/actions.class.php",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/plugins/koiGaleriasPlugin/modules/galerias/templates/batchUploadSuccess.php",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/plugins/koiGaleriasPlugin/config/routing.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/config/app.yml",
+		"/Users/kkrikorian/Workspaces/koisuite~labs/Symfony Projects/sibeliusfest/apps/backend/config/settings.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/web/js/sibeliusfest.js",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/sibeliusfest/config/view.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/sibeliusfest/modules/gadgets/actions/components.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/sibeliusfest/modules/gadgets/templates/_widgetBanners.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/lib/form/doctrine/linksForm.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/lib/model/doctrine/links.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/sibeliusfest/templates/layout.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/lib/widget/koiWidgetFormInputFileEditable.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/lib/widget/sfWidgetFormInputFileEditable.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/backend/modules/links/actions/actions.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/backend/modules/links/config/generator.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/sibeliusfest/modules/mitienda/actions/actions.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/config/app.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/web/css/sibeliusfest.css",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/apps/._.DS_Store",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/plugins/koiSibeliusConcursosPlugin/modules/videosVisitas/config/generator_1.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/plugins/koiSibeliusConcursosPlugin/modules/videosFavoritos/config/generator_1.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/._.DS_Store",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/didijin/apps/._.DS_Store",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/didijin/._.DS_Store",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/didijin/apps/backend/config/factories.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/didijin/apps/didijin/config/factories.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/bandas/config/view.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/web/tunatone/js/validation.config.js",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/config/doctrine/schema.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/web/tunatone/js/tunatone.js",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/bandas/actions/actions.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/web/tunatone/js/jquery.fileupload.use.js",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosPerfiles/templates/_perfilForm.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/bandas/templates/_bandasForm.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/web/tunatone/css/bootstrap-fixes.css",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/web/tunatone/css/tunatone.css",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/artistas/actions/actions.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosPerfiles/actions/actions.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/lib/model/doctrine/PluginnivelCompromiso.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/lib/model/doctrine/PluginmusicaGenerosPrincipal.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/lib/model/doctrine/PluginmusicaGenerosGeneral.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/lib/model/doctrine/PluginmusicaGenerosDetallado.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/lib/form/doctrine/PluginbandasForm.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/lib/model/doctrine/Pluginbandas.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/data/fixtures/musicaGenerosFixtures.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/cuentas/templates/registroSuccess.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/config/doctrine/schema.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiMundoPlugin/config/doctrine/schema.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/data/fixtures/nivelCompromisoFixtures.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/bandas/templates/indexSuccess.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/bandas/templates/agregarSuccess.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/config/app.yml",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/lib/widget/sfWidgetFormInputHTML5Number.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/plugins/koiBuscandoBandaPlugin/lib/form/doctrine/PluginsfGuardUserMusicosForm.class.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosWidgets/templates/_gruposWidget.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosVideos/templates/_videosWidget.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuarios/templates/indexSuccess.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosRedes/templates/_redesWidget.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/web/tunatone/jquery/usuarios/index.js",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosWidgets/templates/_usosWidget.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosWidgets/templates/_amigosWidget.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosVideos/templates/indexSuccess.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosVideos/templates/_videosForm.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosRedes/templates/_redesForm.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosPerfiles/templates/_perfilWidget.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosWidgets/templates/_contactosWidget.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/usuariosRedes/templates/indexSuccess.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/cuentas/templates/activarSuccess.php",
+		"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules/sfGuardAuth/templates/signinSuccess.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"<project>",
+			"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/sibeliusfest/lib/vendor/symfony",
+			"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/,*.yml",
+			"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/*.yml",
+			"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har",
+			"/Volumes/backupUbuntu/kkrikorian/NetBeansProjects/koisuite~labs/har/apps/buscandobanda/modules",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstrap-static",
+			"install",
+			"first",
+			"product_type_selector",
+			"woocommerce_product_data_tabs",
+			"heroku",
+			"figaro",
+			"bululu",
+			"?>",
+			"<?php echo ",
+			"Ocupación:",
+			"twitter-bootstrap-rails",
+			"; ?>",
+			"<?php echo ",
+			"5px",
+			" %>",
+			"<%= ",
+			"user.",
+			"echo ",
+			"?",
+			"?php",
+			"devise",
+			"galerias",
+			"sfWidgetFormInputFileEditable.class.php",
+			"</tr>\n<tr>",
+			" = ",
+			"TexasBlues",
+			"ElectricTexasBlues",
+			"	",
+			"				",
+			"					",
+			"     				",
+			"     					",
+			"     						",
+			"     					",
+			"constantes",
+			"0",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"\">",
+			"');\">",
+			"); saveChoice(2,'",
+			"<div class=\"contentfs\" onclick=\"displayChildselect(2,",
+			"</div>",
+			"<p style=\"visibility: hidden\" id=\"idoption2",
+			"</p>",
+			"<p id=\"option2",
+			"\" style=\"width: 200px;\">",
+			"<div",
+			"harForm",
+			"userForm",
+			"bg-white mt15 p20 ",
+			"bg-white p20 mb15",
+			"bs-005lg",
+			"media-heading",
+			"<h4",
+			"h4>",
+			"h4",
+			"?",
+			"pid",
+			"hidden",
+			"get(",
+			"monto",
+			"saldo_pendiente",
+			"monto",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"%>",
+			"<%= ",
+			"",
+			" %>",
+			"<%= ",
+			" %></li>",
+			"<li><%= ",
+			"<%= current_user.",
+			"",
+			"%",
+			"%=",
+			"",
+			"=",
+			"    ",
+			"",
+			"                      ",
+			"",
+			"\\n<div",
+			"form",
+			"",
+			"box-content",
+			"media-heading block",
+			"<strong",
+			"strong>",
+			"strong",
+			"%s"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/kkrikorian/Workspaces/koisuite~labs/Ruby on Rails Projects/twitter-bootstrap-rails"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/twitter/bootstrap/rails/version.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 842,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										289,
+										305
+									],
+									[
+										556,
+										572
+									],
+									[
+										723,
+										739
+									],
+									[
+										775,
+										791
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "vendor/static-source/bootstrap.less",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/SublimeText Projects/didijin.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
